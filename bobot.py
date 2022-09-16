@@ -253,14 +253,14 @@ async def info(ctx):
     embed=discord.Embed(title=f"{ctx.guild.name}",description="[Frase motivacional]",timestamp=datetime.utcnow(), color=discord.Color.red())
     embed.add_field(name="El servidor fue creado el", value=str(ctx.guild.created_at)[:len(str(ctx.guild.created_at))-16])
     embed.add_field(name="El dueño es", value=str(ctx.guild.owner)[:len(str(ctx.guild.owner))-5])
-    embed.add_field(name="Region del server",value=ctx.guild.region)
+    #embed.add_field(name="Region del server",value=ctx.guild.region)
     embed.add_field(name="ID del servidor",value=ctx.guild.id)
-    embed.set_image(url=ctx.guild.icon_url)
+    embed.set_image(url=ctx.guild.icon)
     await ctx.send(embed=embed)
 
 @bot.command()
 async def avatar(ctx,*, member: discord.Member):
-    a=member.avatar_url
+    a=member.display_avatar
     embed=discord.Embed(title="Contemplen la preciosura de "+str(member)[:len(str(member))-5],color=discord.Color.red())
     embed.set_image(url=a)
     await ctx.send(embed=embed)

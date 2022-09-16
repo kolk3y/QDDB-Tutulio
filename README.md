@@ -33,17 +33,31 @@
 
 ## Generador de sudokus
 
-### Sudoku con 30 números a encontrar
+### Sudoku con 30 números a encontrar:
 ![s](https://i.ibb.co/WWJYP7R/imagen-2022-09-16-174104905.png)
 
-### Sudoku con 1 número a encontrar
+### Sudoku con 1 número a encontrar:
 ![ss](https://i.ibb.co/jZNBspJ/imagen-2022-09-16-174250152.png)
 
-### Sudoku con 70 números a encontrar
+### Sudoku con 70 números a encontrar:
 ![sss](https://i.ibb.co/WFXpjGS/imagen-2022-09-16-174422243.png)
 
 # Buscadores
 
-## Buscador de animes a través de animeflv.net
-
+## Buscador de animes a través de animeflv.net:
 ![s](https://i.ibb.co/NCdsgRV/imagen-2022-09-16-174700538.png)
+
+## Buscador de videos a través de youtube.com:
+![y](https://i.ibb.co/ZBbFwxc/imagen-2022-09-16-175043085.png)
+
+# Y cosas varias
+
+![a](https://i.ibb.co/HhZ9Gx3/imagen-2022-09-16-180013573.png)
+
+![i](https://i.ibb.co/rtF1X43/imagen-2022-09-16-180628729.png)
+
+![u](https://i.ibb.co/zHfhf4y/imagen-2022-09-16-180738270.png)
+
+![f](https://i.ibb.co/y6sXJ9q/imagen-2022-09-16-180900634.png)
+
+![e](https://i.ibb.co/bdKgW8d/imagen-2022-09-16-181003236.png)
